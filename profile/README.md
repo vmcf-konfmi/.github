@@ -4,18 +4,18 @@ Check out our [Image Analysis and Data Processing in Super-Resolution Microscopy
 
 ## Available Services
 Consultation:
- * Sample preapration
+ * Sample preparation
  * Imaging
- * BioImage analysis
+ * BioImage Analysis
  
  Services:
  * Imaging
- * BioImage analysis
+ * BioImage Analysis
  * User training
  
  ## Courses and Workshops
 * Advanced Image analysis
-* Image analysis and data processing in superresolution microscopy (workshop)
+* [Image Analysis and Data Processing in Super-Resolution Microscopy](https://vmcf-konfmi.github.io/workshop-IADPSRM/intro.html) (workshop)
 * Molecular Probes 
 * Quantittive Microscopy 
  
