@@ -252,6 +252,11 @@ Our courses, seminars, and workshops are designed to provide an in-depth underst
   <td align="left"><font size="4"><b>Judith Garcia-Gonzalez</b></font><br>Email: garciagj@natur.cuni.cz, X: @judith_garciago <br>Specializes in bioimage analysis with expertise in cell and cytoskeleton segmentation, and has extensive experience in studying protein dynamics and interactions using fluorescence microscopy. Her work also includes teaching both foundational and advanced bioimage analysis techniques.
   </td>
 </tr>
+<tr>
+  <td align="left" width="25%"><img src="" alt="Team member"></td>
+  <td align="left"><font size="4"><b>Team member </b></font><br>Email: team_member@natur.cuni.cz, X: @team_member <br>Team member description
+  </td>
+</tr>
 </tbody>
 </table>
 
