@@ -296,7 +296,7 @@ Czech Republic<br>
 
 For any inquiries or to schedule a consultation, please reach out through the following:
 
-<!-- - **Email**: [email@example.com](mailto:email@example.com) -->
+- **Email**: [konfmi@natur.cuni.cz](mailto:konfmi@natur.cuni.cz)
 - **Schedule a Meeting**: [Calendly](https://calendly.com/)
 - **Consultancy Guidelines**: Please review the [Bioimage Analysis Consultancy](#bioimage-analysis-consultancy) section before booking a consultation.
 
