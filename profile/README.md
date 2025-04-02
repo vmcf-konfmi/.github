@@ -1,150 +1,309 @@
-We are open access microscopy core facility, you can find as also at [Laboratory of Confocal and Fluorescence Microscopy](https://www.natur.cuni.cz/biology/service/laboratory-of-confocal-and-fluorescence-microscopy?set_language=en)
+# <img src="images/VMCF_logo_bg.svg" alt="VMCF Logo" height="40"><br> Viničná Microscopy Core Facility
 
-Check out our [Image Analysis and Data Processing in Super-Resolution Microscopy](https://vmcf-konfmi.github.io/workshop-IADPSRM/intro.html) Workshop.
+## 🚀 About Us
 
-## Available Services
-Consultation:
- * Sample preparation
- * Imaging
- * BioImage Analysis
- 
- Services:
- * Imaging
- * BioImage Analysis
- * User training
- 
- ## Courses and Workshops
-* Advanced Image analysis
-* [Image Analysis and Data Processing in Super-Resolution Microscopy](https://vmcf-konfmi.github.io/workshop-IADPSRM/intro.html) (workshop)
-* Molecular Probes 
-* Quantittive Microscopy
+Welcome to the Viničná Microscopy Core Facility! We are an open-access resource specializing in advanced microscopy and bioimage analysis. As part of the Laboratory of Confocal and Fluorescence Microscopy, we offer a wide range of services, including cutting-edge imaging technologies and expert analytical support to meet your research needs.
 
-## BioImage Analysis Service
+**Our Mission:** To offer consistent, high-quality microscopy and bioimage analysis services, enabling reproducible and impactful scientific research.
 
-We provide variety of open access service, tailored fro specific of each projects:
+## 🤝 What we offer
 
- * Consultations
-   * Questions about where to search for software/plugins, which tools to choose for specific task. Learning about resources avilable. Consulting results, or already set up workflows.
-   * Time scale: Hours to Days (depends on availability, check [calendly](https://calendly.com/martinschatz/45min)) 
- * BioImage Analysis workflow setup
-   * Design of workflow in specific tool/software. Seting up, or testing softwraes or tools. Preparing or re-running suplementary code from paper on users data.
-   * Time scale: Days to weeks
- * Pair programig development of BioImage Analysis tool
-   * Colaborative development, rewriting or finetuning of BioImage Analysis tools.
-   * Time scale: Weeks, months and more
- * Running workflow/analysis for you
-   * Time scale: depends on workflow
- * Access to our presetup server with both open source and commercial BioImage Analysis tools
+|<div align="center"><img src="images/consulting2.png" alt="Consultations" height="50"><br>Consultations</div>|<div align="center"><img src="images/services.png" alt="Services" height="50"><br>Services</div>|<div align="center"><img src="images/training.png" alt="Trainng" height="50"><br>Teaching</div>|
+|---|---|---|
+|<li>Sample preparation</li><li>Imaging techniques</li><li>[Bioimage analysis](#bioimage-analysis-consultancy)</li></ul>|<li>[Advanced imaging](#-advanced-imaging---available-light-microscopy-equipment)</li><li>[Bioimage analysis](#%EF%B8%8F-bioimage-analysis-service)</li><li>[Software and infrastructure access](#-available-software)</li><li>User training</li>|<li>[Personalized training](#individual-trainings)</li><li>[Workshops and group courses](#courses-and-seminars)</li>|
 
-If you are not sure what to choose, short consultations is always best way to start.
+## 💡Bioimage Analysis Consultancy
+Our Image Analysis Consultancy provides personalized support to help you optimize and navigate your bioimage analysis workflows. Whether you're establishing new processes or refining existing ones, we're here to assist every step of the way.
 
-### The Quidelines to Healty Cooperation 
+### Arrange a Meeting
+- **Booking**: Schedule an in-person or online meeting by selecting a slot through [Calendly](https://calendly.com/) or by emailing us with a brief description of your inquiry. This helps us prepare effectively for your session.
+### Prepare for the Meeting
+- **Necessary Preparation**: Select two (not more❗) example images, ideally opened in FIJI, so we can inspect the raw data in detail during the meeting. Choose images that represent the range of phenomena you're investigating (e.g., positive and negative controls).
+- **(Optional) Data Sharing**: Sharing a minimal set of example data in advance can be very helpful. Details on data preparation can be found in the "Image Data Preparation" section below.
+- **(Optional) Presentation**: If possible, prepare a short presentation covering the following topics:
+  - **Scientific Background**: An overview of the project.
+  - **Sample Preparation and Image Acquisition**: Details on the specimen, staining methods, and microscopy used.
+  - **Example Images**: Ideally, provide treated and untreated images that show a clear difference. If not applicable, show a range of images to illustrate data variability.
+  - **Technical Details**: Clarify the specific numbers you wish to measure, the volume of data (e.g., 10, 100, 1,000 images), image sizes, preferred software, and any preliminary analysis attempts.
 
- - Any publications resulting from the use of tools within any facility should be acknowledged. 
- - If a particular member has provided significant help, expertise or generated additional data (including scripts, software or numeric results), they should be acknowledged by name and their personal contribution to the study.
- - If scientist has rovided significant intellectual input, they should be co-authors. 
- - Co-authorship decisions should be made at the preparation stage of the manuscript.  Co-authors reserves the right to review manuscripts containing results generated prior to submission.
- - Each author should have made substantial contributions to the work, approved the submitted version, and agreed to be personally accountable for their own contributions and to ensure the accuracy and integrity of the work. 
- - The primary affiliation for each author should be the institution where the majority of their work was done, and if they have subsequently moved, the current address may also be stated.
+Don't be stressed, if you're unsure what to bring, just come to us, we will help you 😊
 
-### Image analysis consultancy
+### Image Data Preparation
+- **Organize Your Data**: Select a minimal set of representative images that clearly show biologically relevant differences.
+- **Suggested Folder Structure**:
+  ```plaintext
+  minimal-example-data/
+  ├── condition01/
+  │   └── condition01_image01.tif
+  ├── condition02/
+  │   └── condition02_image01.tif
+  └── README.txt
+## 🖥️ Bioimage Analysis service
+Our facility offers a wide range of open-access services designed to meet the unique requirements of your bioimaging projects. Whether you need assistance with image analysis, workflow setup, or custom tool development, our team is here to support you.
 
-#### Arrange a meeting
+We provide expert consultations and training, and can develop tailored image analysis workflows to fit your specific scientific goals. Our infrastructure, equipped with cutting-edge workstations, High Performance Computing, and a variety of bioimage analysis tools, allows for remote access and seamless data handling from anywhere.
 
-We offer in person or online meetings.
+In line with the principles of open science, we adhere to the FAIR guidelines, ensuring that our services and solutions promote data transparency, accessibility, and reusability.
 
-Please book one of those slots in [calendly](https://calendly.com/martinschatz/45min). 
+- **Consultations**:
+  - Get help choosing the right software, plugins, and tools for your tasks.
+  - Find resources and get advice on interpreting results or improving your workflows.
+  - **Timeframe**: Few hours to a few days (depending on availability; check our Calendly for booking).
 
-You can also write a mail to <schatzm(at)natur.cuni.cz> describing in a few sentences what your question is about. We need this information to prepare.
+- **Workflow Setup**:
+  - Design and set up analysis workflows tailored to your needs.
+  - We can help with software setup, testing, and running code from published papers using your data.
+  - **Timeframe**: Few days to a few weeks.
 
-#### Prepare for the meeting
+- **Pair Programming for Tool Development**:
+  - Work with us to develop, refine, or improve BioImage Analysis tools through collaborative programming.
+  - **Timeframe**: Usually takes several weeks to months, depending on the project.
 
-##### Necessary preparation
+- **Workflow Execution**:
+  - We can run analysis workflows for you on our server, which has both open-source and commercial BioImage Analysis tools.
+  - **Timeframe**: Varies depending on the complexity of the workflow.
 
-It is extremly helpful to have **two example images** available; ideally already **opened in [FIJI](https://imagej.net/software/fiji/downloads)** such that we can inspect the raw data in detail together during the meeting; ideally the two images covering the range of phenomena you are investigating (e.g. **positive and negative control**). 
+If you're unsure where to start, we recommend scheduling a short consultation to discuss your needs and determine the best approach.
 
-##### Optional data sharing
+### Guidelines for a healthy cooperation
 
-Ideally, please also share some minimal example data with us. You can find detials in **Image data preparation** section.
+To ensure a smooth and productive partnership, please consider the following guidelines when publishing results derived from our collaboration:
 
-##### Optional presentation
+- **Acknowledgment**: Any publications resulting from the use of our tools or services should include an acknowledgment of the facility.
+- **Authorship**: If a team member provided significant intellectual input or contributed additional data (e.g., scripts, software, or numerical results), they should be acknowledged by name or considered for co-authorship.
+  - **Co-Authorship**: Co-authorship decisions should be made during the manuscript preparation stage. Co-authors reserve the right to review any manuscript containing results generated by the facility before submission.
+  - **Contributions**: Each author should have made substantial contributions to the work, approved the final version, and agreed to be accountable for their contributions to ensure the accuracy and integrity of the research.
+  - **Affiliations**: The primary affiliation for each author should be the institution where the majority of their work was conducted. If the author has since moved, their current address may also be included.
 
-If you can, it would be nice if you could prepare a short presentation, roughly following below suggestions. Of course, please modify this according to your project and leave out things that are not applicable. Please don't get stressed about preparing anything, we will help you in any case :) 
+## 💻 Available software
+<table  style="width:100%;">
+<tbody>
+<tr>
+<td align="left" width="10%" height= 50><img src="images/arivis.png" alt="ZEISS Arivis Pro logo"></td>
+<td align="left" width="40%" height =50>ZEISS Arivis Pro</td>
+<td align="left" width="10%" height =50><img src="images/zen.png" alt="ZEISS ZEN logo"></td>
+<td align="left" width="40%" height =50>ZEISS ZEN</td>
+</tr>
+<tr>
+<td align="left" width="10%" height= 50><img src="images/SVI.png" alt="SVI Huygens logo"></td>
+<td align="left" width="40%" height =50>SVI Huygens Professional</td>
+<td align="left" width="10%" height =50><img src="images/nis.png" alt="NIS elements logo"></td>
+<td align="left" width="40%" height =50>NIS Elements</td>
+</tr>
+<tr>
+<td align="left" width="10%" height= 50><img src="images/SPCImage.png" alt="SPCImage logo"></td>
+<td align="left" width="40%" height =50>SPCImage FLIM analysis</td>
+<td align="left" width="10%" height =50><img src="images/BIOP-desktop.png" alt="BIOP Desktop logo"></td>
+<td align="left" width="40%" height =50>BIOP-Desktop</td>
+</tr>
+<tr>
+<td align="left" width="10%" height= 50><img src="images/fiji.png" alt="FIJI logo"></td>
+<td align="left" width="40%" height =50>ImageJ/FIJI</td>
+<td align="left" width="10%" height =50><img src="images/napari.png" alt="Napari logo"></td>
+<td align="left" width="40%" height =50>Napari</td>
+</tr>
+<tr>
+<td align="left" width="10%" height= 50><img src="images/cellpose.png" alt="Cellpose logo"></td>
+<td align="left" width="40%" height =50>Cellpose</td>
+<td align="left" width="10%" height =50><img src="images/ilastik.png" alt="Ilastik logo"></td>
+<td align="left" width="40%" height =50>Ilastik</td>
+</tr>
+<tr>
+<td align="left" width="10%" height= 50><img src="images/qupath.png" alt="QuPath logo"></td>
+<td align="left" width="40%" height =50>QuPath</td>
+<td align="left" width="10%" height =50></td>
+<td align="left" width="40%" height =50>and more...</td>
+</tr>
+</tbody>
+</table>
 
-- Slide 1: Scientific background
-- Slide 2: Sample preparation and image acquisition
-  - What's the specimen?
-  - What kind of staining did you do?
-  - Which microscope did you use? 
-- Slide 3: Example images
-  - Ideally two images: treated and untreated with a visible difference of what should be measured
-  - If above does not apply to your project it would still be nice if you could show more than one image such that we can get a feel for how variable the data is.
-- Slide 4: Technicalities
-  - Do you already know which number(s) you would like to measure?
-  - How many images do you want to analyse (10,100,1000,10000,100000,...)?
-  - How big are your individual images (MB, TB)?
-  - Would you prefer a certain analysis software?
-  - Do you already have experience with a certain analysis software?
-  - Did you already try to analyse the data?
+## ⌨️ Workstations
 
+## ⚡High computing infrastructure
 
-Best wishes and we looking forward to meeting you!
-
-### Image data preparation
-
-This document contains recommendations of how to organise your image data, e.g. when seeking consultancy at EMBL-CBA.
-
-#### Select a minimal set of representative examples
-
-Select **two** (not more) images that ideally show a clear and biologically relevant difference.
-
-For example the first image could be a control sample, whereas the second image has been treated in some way.
-
-Please organise those two images into a folder structure similar to the one below:
-
-- minimal-example-data
-    - condition01
-        - condition01_image01
-    - condition02
-        - condition02_image01
-    - README.txt
-
-As indicated please also add a short README text file where you describe in a few words what the difference is that you see between the conditions.
-
- 
- ## Available Microscopes
- 
- ### Confocal microscopes
-  * High-end confocal microscope **Leica TCS SP8** with one standard PMT and one sensitive HyD detector. Allows acquisition of fixed and living samples. The environmental chamber PECON with the CO2 regulation provides a suitable atmosphere for living cells experiments. The microscope offers several modes including lambda scanning, FRET and FRAP measurements, and is also equipped with a MATRIX module for object tracking during acquisition (e.g. growing oocytes or roots)
-
-  * The laboratory is equipped with a high-end inverted confocal microscope **Leica TCS SP2** with AOBS (Acousto-Optical Beam Splitter) system, which ensures high sensitivity and the possibility to combine up to four fluorescence markers. The microscope allows structure analysis of fixed samples. It is possible to do multicolor analysis, 3D reconstructions, FRAP (Fluorescence Recovery After Photobleaching), FRET (Fluorescence Resonance Energy Transfer) analysis, and tile scans. There is a diode 405 nm laser installed.
-
-  * The most up-to-date confocal microscope **Zeiss LSM 880 NLO** is equipped with a set of lasers for one-photon excitation and with tunable  Ti:Sa pulsed laser for two-photon excitation. High-sensitive 32-channel GaAsp spectral detector gets unrivaled clear images. It is possible to do one-channel FLIM (Fluorescence Lifetime IMaging), FCS (Fluorescence Correlation Spectroscopy), and RICS (Raster Image Correlation Microscopy) measurements which allow us to uncover molecular relationships and functions. The microscope works with high speed and high resolution. Live-cell imaging heated chamber with CO2 atmosphere is available as well.
+## 💾 Data storage
   
+## 🔬 Advanced imaging - available light microscopy equipment
+At our core facility, we offer advanced microscopy techniques, including super-resolution, confocal, and high-throughput imaging. Our team is here to help you select the best tools and fine-tune your workflows, ensuring you get the most valuable insights from your samples.
+
+### Confocal microscopes 
+<table  style="width:100%;">
+<tbody>
+<tr>
+<td align="left" width="25%"><img src="images/leica_sp8.png" alt="Leica SP8"></td>
+<td align="left"><b>Leica TCS SP8</b><br><li>High-end confocal microscope with standard PMT and sensitive HyD detector.</li><li>Supports fixed and living samples.</li><li>Environmental chamber (PECON) with CO2 regulation for live-cell experiments</li><li>Multiple modes: lambda scanning, FRET, FRAP.</li><li>Equipped with MATRIX module for object tracking (e.g., oocytes, roots).</li></td>
+</tr>
+<tr>
+<td align="left" width="25%"><img src="images/zeiss_lsm880.png" alt="Zeiss LSM880"></td><td><b>Zeiss LSM 880 NLO</b><br><li>Latest confocal microscope with one-photon and tunable Ti pulsed lasers for two-photon excitation.</li><li>High-sensitivity 32-channel GaAsp spectral detector.</li><li>Supports one-channel FLIM, FCS, and RICS measurements, enabling exploration of molecular relationships and functions.</li><li>Includes a live-cell imaging chamber with CO2 control.</li></td>
+</tr>
+<tr>
+<td align="left" width="25%"><img src="images/leica_sp2.png" alt="Leica SP2"></td><td><b>Leica TCS SP2</b><br><li>High-end inverted confocal microscope with AOBS system, allowing high sensitivity and the combination of up to four fluorescence markers.</li><li>Supports multicolor analysis, 3D reconstructions, FRAP, FRET, and tile scans.</li><li> Includes a 405 nm diode laser, ideal for structural analysis of fixed samples.</li></td>
+</tr>
+</tbody>
+</table>
+
 ### Wide-field microscopes
- * There is also a great wide-field system **Olympus Scan^R** available. It is equipped with a stabilized light source, high sensitive Hamamatsu camera, motorized stage, filter, and objective turrets and shutters. It is possible to do high-quality imaging as well as high throughput imaging and mosaic imaging. A high-quality stage chamber with the regulation of temperature (-5 to 65 °C) and gas level (CO2, O2) can maintain also multiwell dishes and allow high throughput imaging under different environmental conditions.
-
- * Fully motorized fluorescence wide-field microscope **NIKON TiE2** serves for fixed and living samples. It is equipped with a high-speed monochromatic ORCA Flash camera able to get 100 fps as well as with a nice RGB camera. Excitation Cool-LED P-4000 with 16 LEDs cover the full spectrum as well as SEDAT system of emission filters and multiband dichroic. OKOLab environmental chamber suits most common living cells demands. The microscope is driven by the full version of NIS-elements with High Content Imaging possibilities (JOBs module).
-
- * A fully automated microscope **ZEISS Axioscan Z.1** with the dock for 100 slides can easily and autonomously scan all of them at once. It is a workhorse for High Throughput Imaging of all of your tissue sections which could be reconstructed back to the 3D image of the sample.
+<table style="width:100%;">
+<tbody>
+<tr>
+  <td align="left" width="25%"><img src="images/Cell-R.png" alt="Olympus Scan^R"></td>
+  <td align="left"><b>Olympus Scan^R</b><br>
+    <ul>
+      <li>High-throughput and mosaic imaging with a high-sensitivity Hamamatsu camera.</li>
+      <li>Stabilized light source, motorized stage, filter, and objective turrets and shutters.</li>
+      <li>High-quality stage chamber with temperature regulation (-5 to 65 °C) and gas control (CO2, O2).</li>
+      <li>Supports multiwell dishes, suitable for varied environmental conditions.</li>
+    </ul>
+  </td>
+</tr>
+<tr>
+  <td align="left" width="25%"><img src="images/Nikon TI2-E.png" alt="NIKON TiE2"></td>
+  <td align="left"><b>NIKON TiE2</b><br>
+    <ul>
+      <li>High-speed monochromatic ORCA Flash camera (100 fps) and RGB camera.</li>
+      <li>Excitation Cool-LED P-4000 with 16 LEDs covering the full spectrum.</li>
+      <li>SEDAT system of emission filters and multiband dichroic.</li>
+      <li>OKOLab environmental chamber for living cell experiments.</li>
+      <li>Driven by NIS-elements software with High Content Imaging (JOBs module).</li>
+    </ul>
+  </td>
+</tr>
+<tr>
+  <td align="left" width="25%"><img src="images/zeiss_axioscanZ1.png" alt="ZEISS Axioscan Z.1"></td>
+  <td align="left"><b>ZEISS Axioscan Z.1</b><br>
+    <ul>
+      <li>Fully automated microscope with dock for 100 slides, capable of autonomous scanning.</li> 
+      <li>High-throughput imaging ideal for tissue sections.</li> 
+      <li> Enables 3D reconstruction of scanned samples.</li> 
+      <li>Enables 3D reconstruction of scanned samples.</li>
+    </ul>
+  </td>
+</tr>
+</tbody>
+</table>
 
 ### Super-resolution microscopes
- * **Microscope Zeiss Elyra PS.1** uses technologies of structured illumination (SIM) and precise localization (PALM/STORM) to overcome the so-called diffraction barrier, which limits us to the resolution of around 200 nm in conventional light microscopy. Nanoscopy allows us to observe structures with 2-3x higher resolution with SIM and up to 5 nm with localization microscopy. The microscope can use a technology of TIRF (Total Internal Reflection Fluorescence) to increase the signal-to-noise ratio in the space near to cover glass. A set of high-quality lasers and cameras help us to make great super-resolution images.
+<table style="width:100%;">
+<tbody>
+<tr>
+  <td align="left" width="25%"><img src="images/zeiss_elyra_PS1.png" alt="Zeiss Elyra PS.1"></td>
+  <td align="left"><b>Zeiss Elyra PS.1</b><br>
+    <ul>
+      <li>Utilizes Structured Illumination Microscopy (SIM) and precise localization (PALM/STORM) to surpass the diffraction barrier, achieving resolution 2-3x higher with SIM and up to 5 nm with localization microscopy.</li>
+      <li>Features Total Internal Reflection Fluorescence (TIRF) to increase the signal-to-noise ratio near the cover glass.</li>
+    </ul>
+  </td>
+</tr>
+</tbody>
+</table>
 
 ### Ligthsheet microscopes
- * **Zeiss Lightsheet Z.1** microscope is great for rapid acquisition of fixed, living, or cleared samples in selective plane illumination. There are two pairs of 5x and 10x illumination objectives. Detection objective of 5x, 10x, 20x, and 40x and two objectives 20x for clearing  RI 1.38 and 1.45. The chamber size is roughly 2x2x2 cm. The two-channel acquisition is driven by two cooled PCO cameras.
+<table style="width:100%;">
+<tbody>
+<tr>
+  <td align="left" width="25%"><img src="images/zeiss_lightsheet.png" alt="Zeiss Lightsheet Z.1"></td>
+  <td align="left"><b>Zeiss Lightsheet Z.1</b><br>
+    <ul>
+      <li>Ideal for rapid acquisition of fixed, living, or cleared samples using selective plane illumination.</li>
+      <li>Two pairs of 5x and 10x illumination objectives for flexible imaging.</li>
+      <li>Detection at 5x, 10x, 20x, and 40x magnifications, including two specialized 20x objectives for clearing with refractive indices (RI) of 1.38 and 1.45.</li>
+      <li>Sample chamber for specimens of up to 2x2x2cm volume.</li>
+      <li>Two-channel acquisition is powered by two cooled PCO cameras.</li>
+    </ul>
+  </td>
+</tr>
+</tbody>
+</table>
 
-<!--
-**vmcf-konfmi/vmcf-konfmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📖 Training
+Our core facility offers a variety of training options that are tailored to meet the unique needs of our users. Whether you're a seasoned microscopist looking to improve your workflow or a first-time user, we have courses and workshops specifically designed for you.
 
-Here are some ideas to get you started:
+### Individual trainings
+* User-defined training sessions
+* How to: BIOP-Desktop in [Metacentrum OnDemand](http://ondemand.metacentrum.cz/)
+* How to: Jupyter Hub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Courses and seminars
+Our courses, seminars, and workshops are designed to provide an in-depth understanding of bioimage analysis, with a focus on practical applications for interpreting microscopy data.
+
+* [4EU+ Advanced Image analysis](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=MB100T01)
+* [4EU+ Molecular Probes in Biomedical Imaging](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=MB100P09)
+* [4EU+ Quantitative Microscopy](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=MB100P08)
+* [Image Analysis and Data Processing in Super-Resolution Microscopy (workshop)](https://vmcf-konfmi.github.io/workshop-IADPSRM/intro.html)
+* [Fundamentals of bioimage analysis (workshop)](https://web.natur.cuni.cz/sekce-bi/VMCF/bioimage-analysis-fundamentals-2/)
+
+
+
+## 👨‍💻 Our team
+<table style="width:100%;">
+<tbody>
+<tr>
+  <td align="left" width="25%"><img src="images/burdikova.png" alt="Zuzana Burdikova"></td>
+  <td align="left"><font size="4"><b>Zuzana Burdíkova</b></font><br>Email: zuzana.burdikova@natur.cuni.cz, X: @BurdikovaZuzana  <br>Specialist in super-resolution microscopy, including STORM, SIM, and lightsheet imaging, with expertise in bioimage analysis, international collaboration, and mentoring in scientific research. 
+  </td>
+</tr>
+<tr>
+  <td align="left" width="25%"><img src="images/schatz.png" alt="Martin Schätz"></td>
+  <td align="left"><font size="4"><b>Martin Schätz</b></font><br>Email: martin.Schatz@natur.cuni.cz, X: @SchatzCz, ORCID:0000-0003-0931-4017 <br>Specializes in designing and implementing advanced workflows for user projects, advising on experimental design, and managing research data. His work includes teaching advanced image analysis techniques, research data management, open science and mentoring researchers on microscopy and data processing.
+  </td>
+</tr>
+<tr>
+  <td align="left" width="25%"><img src="images/garcia.png" alt="Judith Garcia-Gonzalez"></td>
+  <td align="left"><font size="4"><b>Judith Garcia-Gonzalez</b></font><br>Email: garciagj@natur.cuni.cz, X: @judith_garciago <br>Specializes in bioimage analysis with expertise in cell and cytoskeleton segmentation, and has extensive experience in studying protein dynamics and interactions using fluorescence microscopy. Her work also includes teaching both foundational and advanced bioimage analysis techniques.
+  </td>
+</tr>
+<tr>
+  <td align="left" width="25%"><img src="" alt="Team member"></td>
+  <td align="left"><font size="4"><b>Team member </b></font><br>Email: team_member@natur.cuni.cz, X: @team_member <br>Team member description
+  </td>
+</tr>
+</tbody>
+</table>
+
+## 💲Pricelist
+<table style="width:100%;">
+  <tbody>
+    <tr>
+      <td align="left" width="25%"><b>Service</b></td>
+      <td align="left"><b>Description</b></td>
+      <td align="left" width="20%"><b>Rate (per hour)</b></td>
+    </tr>
+    <tr>
+      <td align="left" width="25%">Consultations</td>
+      <td align="left">Discussion with a bioimage analyst to define and understand the problem.</td>
+      <td align="left" width="20%">50 Kč</td>
+    </tr>
+    <tr>
+      <td align="left" width="25%">Workflow Establishment</td>
+      <td align="left">In-depth exploration of the problem, researching potential solutions, and setting up workflows.</td>
+      <td align="left" width="20%">101 Kč</td>
+    </tr>
+    <tr>
+      <td align="left" width="25%">Manual Analysis/Scripting</td>
+      <td align="left">Development of custom scripts or manual processing and analysis of images.</td>
+      <td align="left" width="20%">390 Kč</td>
+    </tr>
+    <tr>
+      <td align="left" width="25%">Computing Time</td>
+      <td align="left">Charges for the time spent running scripts or imaging program functions, billed per millisecond of processing time.</td>
+      <td align="left" width="20%">469 Kč</td>
+    </tr>
+  </tbody>
+</table>
+
+## 📩 Contact
+You can find us at: <br>
+**Viničná Microscopy Core Facility**<br>
+Faculty of Science (Charles University)<br>
+Viničná 7<br>
+128 44 Prague 2<br>
+Czech Republic<br>
+
+For any inquiries or to schedule a consultation, please reach out through the following:
+
+- **Email**: [konfmi@natur.cuni.cz](mailto:konfmi@natur.cuni.cz)
+- **Schedule a Meeting**: [Calendly](https://calendly.com/)
+- **Consultancy Guidelines**: Please review the [Bioimage Analysis Consultancy](#bioimage-analysis-consultancy) section before booking a consultation.
+
+## 🔗 More information and latest news
+<img src="images/github_logo.svg" alt="GitHub Logo" width="20" height="20"> &nbsp; [VMCF GitHub](https://github.com/vmcf-konfmi)<br><img src="images/X_logo.svg" alt="X Logo" width="20" height="20">  &nbsp; [X (@IMCF_vinicna)](https://x.com/IMCF_vinicna)<br><img src="images/web_logo.svg" alt="Website Logo" width="20" height="20">  &nbsp; [Viničná Microscopy Core Facility (VMCF)](https://web.natur.cuni.cz/sekce-bi/VMCF/)<br><img src="images/web_logo.svg" alt="Website Logo" width="20" height="20">  &nbsp; [Laboratory of Confocal and Fluorescence Microscopy (KONFMI)](https://www.natur.cuni.cz/biology/service/laboratory-of-confocal-and-fluorescence-microscopy?set_language=en)
