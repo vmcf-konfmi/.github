@@ -16,7 +16,7 @@ Welcome to the Viničná Microscopy Core Facility! We are an open-access resourc
 Our Image Analysis Consultancy provides personalized support to help you optimize and navigate your bioimage analysis workflows. Whether you're establishing new processes or refining existing ones, we're here to assist every step of the way.
 
 ### Arrange a Meeting
-- **Booking**: Schedule an in-person or online meeting by selecting a slot through [Calendly](https://calendly.com/) or by emailing us with a brief description of your inquiry. This helps us prepare effectively for your session.
+- **Booking**: Schedule an in-person or online meeting by selecting a slot through [Calendly](https://calendly.com/martinschatz/45min) or by emailing us with a brief description of your inquiry. This helps us prepare effectively for your session.
 ### Prepare for the Meeting
 - **Necessary Preparation**: Select two (not more❗) example images, ideally opened in FIJI, so we can inspect the raw data in detail during the meeting. Choose images that represent the range of phenomena you're investigating (e.g., positive and negative controls).
 - **(Optional) Data Sharing**: Sharing a minimal set of example data in advance can be very helpful. Details on data preparation can be found in the "Image Data Preparation" section below.
