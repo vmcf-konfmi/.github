@@ -126,94 +126,6 @@ To ensure a smooth and productive partnership, please consider the following gui
 ## 🔬 Advanced imaging - available light microscopy equipment
 At our core facility, we offer advanced microscopy techniques, including super-resolution, confocal, and high-throughput imaging. Our team is here to help you select the best tools and fine-tune your workflows, ensuring you get the most valuable insights from your samples.
 
-### Confocal microscopes 
-<table  style="width:100%;">
-<tbody>
-<tr>
-<td align="left" width="25%"><img src="images/leica_sp8.png" alt="Leica SP8"></td>
-<td align="left"><b>Leica TCS SP8</b><br><li>High-end confocal microscope with standard PMT and sensitive HyD detector.</li><li>Supports fixed and living samples.</li><li>Environmental chamber (PECON) with CO2 regulation for live-cell experiments</li><li>Multiple modes: lambda scanning, FRET, FRAP.</li><li>Equipped with MATRIX module for object tracking (e.g., oocytes, roots).</li></td>
-</tr>
-<tr>
-<td align="left" width="25%"><img src="images/zeiss_lsm880.png" alt="Zeiss LSM880"></td><td><b>Zeiss LSM 880 NLO</b><br><li>Latest confocal microscope with one-photon and tunable Ti pulsed lasers for two-photon excitation.</li><li>High-sensitivity 32-channel GaAsp spectral detector.</li><li>Supports one-channel FLIM, FCS, and RICS measurements, enabling exploration of molecular relationships and functions.</li><li>Includes a live-cell imaging chamber with CO2 control.</li></td>
-</tr>
-<tr>
-<td align="left" width="25%"><img src="images/leica_sp2.png" alt="Leica SP2"></td><td><b>Leica TCS SP2</b><br><li>High-end inverted confocal microscope with AOBS system, allowing high sensitivity and the combination of up to four fluorescence markers.</li><li>Supports multicolor analysis, 3D reconstructions, FRAP, FRET, and tile scans.</li><li> Includes a 405 nm diode laser, ideal for structural analysis of fixed samples.</li></td>
-</tr>
-</tbody>
-</table>
-
-### Wide-field microscopes
-<table style="width:100%;">
-<tbody>
-<tr>
-  <td align="left" width="25%"><img src="images/Cell-R.png" alt="Olympus Scan^R"></td>
-  <td align="left"><b>Olympus Scan^R</b><br>
-    <ul>
-      <li>High-throughput and mosaic imaging with a high-sensitivity Hamamatsu camera.</li>
-      <li>Stabilized light source, motorized stage, filter, and objective turrets and shutters.</li>
-      <li>High-quality stage chamber with temperature regulation (-5 to 65 °C) and gas control (CO2, O2).</li>
-      <li>Supports multiwell dishes, suitable for varied environmental conditions.</li>
-    </ul>
-  </td>
-</tr>
-<tr>
-  <td align="left" width="25%"><img src="images/Nikon TI2-E.png" alt="NIKON TiE2"></td>
-  <td align="left"><b>NIKON TiE2</b><br>
-    <ul>
-      <li>High-speed monochromatic ORCA Flash camera (100 fps) and RGB camera.</li>
-      <li>Excitation Cool-LED P-4000 with 16 LEDs covering the full spectrum.</li>
-      <li>SEDAT system of emission filters and multiband dichroic.</li>
-      <li>OKOLab environmental chamber for living cell experiments.</li>
-      <li>Driven by NIS-elements software with High Content Imaging (JOBs module).</li>
-    </ul>
-  </td>
-</tr>
-<tr>
-  <td align="left" width="25%"><img src="images/zeiss_axioscanZ1.png" alt="ZEISS Axioscan Z.1"></td>
-  <td align="left"><b>ZEISS Axioscan Z.1</b><br>
-    <ul>
-      <li>Fully automated microscope with dock for 100 slides, capable of autonomous scanning.</li> 
-      <li>High-throughput imaging ideal for tissue sections.</li> 
-      <li> Enables 3D reconstruction of scanned samples.</li> 
-      <li>Enables 3D reconstruction of scanned samples.</li>
-    </ul>
-  </td>
-</tr>
-</tbody>
-</table>
-
-### Super-resolution microscopes
-<table style="width:100%;">
-<tbody>
-<tr>
-  <td align="left" width="25%"><img src="images/zeiss_elyra_PS1.png" alt="Zeiss Elyra PS.1"></td>
-  <td align="left"><b>Zeiss Elyra PS.1</b><br>
-    <ul>
-      <li>Utilizes Structured Illumination Microscopy (SIM) and precise localization (PALM/STORM) to surpass the diffraction barrier, achieving resolution 2-3x higher with SIM and up to 5 nm with localization microscopy.</li>
-      <li>Features Total Internal Reflection Fluorescence (TIRF) to increase the signal-to-noise ratio near the cover glass.</li>
-    </ul>
-  </td>
-</tr>
-</tbody>
-</table>
-
-### Ligthsheet microscopes
-<table style="width:100%;">
-<tbody>
-<tr>
-  <td align="left" width="25%"><img src="images/zeiss_lightsheet.png" alt="Zeiss Lightsheet Z.1"></td>
-  <td align="left"><b>Zeiss Lightsheet Z.1</b><br>
-    <ul>
-      <li>Ideal for rapid acquisition of fixed, living, or cleared samples using selective plane illumination.</li>
-      <li>Two pairs of 5x and 10x illumination objectives for flexible imaging.</li>
-      <li>Detection at 5x, 10x, 20x, and 40x magnifications, including two specialized 20x objectives for clearing with refractive indices (RI) of 1.38 and 1.45.</li>
-      <li>Sample chamber for specimens of up to 2x2x2cm volume.</li>
-      <li>Two-channel acquisition is powered by two cooled PCO cameras.</li>
-    </ul>
-  </td>
-</tr>
-</tbody>
-</table>
 
 ## 📖 Training
 Our core facility offers a variety of training options that are tailored to meet the unique needs of our users. Whether you're a seasoned microscopist looking to improve your workflow or a first-time user, we have courses and workshops specifically designed for you.
@@ -238,11 +150,6 @@ Our courses, seminars, and workshops are designed to provide an in-depth underst
 <table style="width:100%;">
 <tbody>
 <tr>
-  <td align="left" width="25%"><img src="images/burdikova.png" alt="Zuzana Burdikova"></td>
-  <td align="left"><font size="4"><b>Zuzana Burdíkova</b></font><br>Email: zuzana.burdikova@natur.cuni.cz, X: @BurdikovaZuzana  <br>Specialist in super-resolution microscopy, including STORM, SIM, and lightsheet imaging, with expertise in bioimage analysis, international collaboration, and mentoring in scientific research. 
-  </td>
-</tr>
-<tr>
   <td align="left" width="25%"><img src="images/schatz.png" alt="Martin Schätz"></td>
   <td align="left"><font size="4"><b>Martin Schätz</b></font><br>Email: martin.Schatz@natur.cuni.cz, X: @SchatzCz, ORCID:0000-0003-0931-4017 <br>Specializes in designing and implementing advanced workflows for user projects, advising on experimental design, and managing research data. His work includes teaching advanced image analysis techniques, research data management, open science and mentoring researchers on microscopy and data processing.
   </td>
@@ -260,7 +167,7 @@ Our courses, seminars, and workshops are designed to provide an in-depth underst
 </tbody>
 </table>
 
-## 💲Pricelist
+## 💲Pricelist (without VAT)
 <table style="width:100%;">
   <tbody>
     <tr>
@@ -271,22 +178,22 @@ Our courses, seminars, and workshops are designed to provide an in-depth underst
     <tr>
       <td align="left" width="25%">Consultations</td>
       <td align="left">Discussion with a bioimage analyst to define and understand the problem.</td>
-      <td align="left" width="20%">50 Kč</td>
+      <td align="left" width="20%">41.32 Kč</td>
     </tr>
     <tr>
       <td align="left" width="25%">Workflow Establishment</td>
       <td align="left">In-depth exploration of the problem, researching potential solutions, and setting up workflows.</td>
-      <td align="left" width="20%">101 Kč</td>
+      <td align="left" width="20%">83.47 Kč</td>
     </tr>
     <tr>
       <td align="left" width="25%">Manual Analysis/Scripting</td>
       <td align="left">Development of custom scripts or manual processing and analysis of images.</td>
-      <td align="left" width="20%">390 Kč</td>
+      <td align="left" width="20%">322.31 Kč</td>
     </tr>
     <tr>
       <td align="left" width="25%">Computing Time</td>
       <td align="left">Charges for the time spent running scripts or imaging program functions, billed per millisecond of processing time.</td>
-      <td align="left" width="20%">469 Kč</td>
+      <td align="left" width="20%">387.60 Kč</td>
     </tr>
   </tbody>
 </table>
